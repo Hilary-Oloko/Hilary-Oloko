@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hilary-Oloko
-- 👀 I’m interested in every things related to data, spacially in data science
+- 👀 I’m interested in every things related to data, specially in data viz and engineering 
 - 🌱 I’m currently in my last year of engineering school in the data science field
 
 <!---
